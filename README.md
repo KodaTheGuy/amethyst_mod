@@ -31,7 +31,6 @@ There are 4 tools in Amathyst:
 ## Dependencies
 
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- [`worldedit`](https://github.com/Uberi/Minetest-WorldEdit)
   - This is required due to the `worldedit.deserialize` function.
 
 ### Optional dependencies
@@ -59,4 +58,4 @@ David Leal (Panquestio7) https://github.com/Panquesito7
 ## Issues, suggestions, features & bugfixes
 
 Report bugs or suggest ideas by [creating an issue](https://github.com/KodaTheGuy/amethyst_mod/issues.
-If you know how to fix an issue, or want something to be added, consider opening a [pull request](https://github.com/KodaTheGuy/issue/compare
+If you know how to fix an issue, or want something to be added, consider opening a [pull request](https://github.com/KodaTheGuy/issue/compare)
