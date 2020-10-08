@@ -1,4 +1,32 @@
-                    GNU GENERAL PUBLIC LICENSE
+# License for textures/media
+  
+Copyright (C) 2019-2020 Koda_, Kaylon Walker (kaylonja223@gmail.com)
+Copyright (C) Various other Minetest developers/contributors
+
+Kaylon Walker (CC BY-SA 4.0):
+
+screenshot.png
+BlockMen (CC BY-SA 3.0):
+
+amethyst_tool_*.png - default_tool_*.png\
+amethyst_ingot.png - default_gold_ingot.png
+InfinityProject (CC BY-SA 3.0):
+
+amethyst_lump.png - default_gold_lump.png
+kilbith (CC BY-SA 3.0):
+
+amethyst_block.png - default_gold_block.png\
+Copyright and related rights waived via CC0:
+
+cloud_items_multitool_cloud.png
+Copyright (C) davidthecreator 2017-2018 (CC BY-SA 3.0):
+
+All 3d_armor textures.
+License for source code
+Copyright (C) 2020-2021 Koda_, Kaylon Walker (kaylonja223@gmail.com)
+Copyright (C) Various other Minetest developers/contributors\
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
