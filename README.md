@@ -1,7 +1,7 @@
 # amethyst_mod
 ### Amethyst Features
 
-There are 4 tools in Amathyst:
+There are 4 tools in Amethyst:
 
 - Amethyst Sword
   - Hard to find.
